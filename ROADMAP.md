@@ -1,6 +1,6 @@
 # TACT Roadmap
 
-> **Note**
+> **Note:**
 > This document is a living document and will be updated as the project evolves.
 > The roadmap is not set in stone and is subject to change.
 > The roadmap is not a commitment to deliver certain features by certain dates.
@@ -9,7 +9,7 @@
 
 This version will be the first stable release of TACT. It will be released when the following features are implemented:
 
-- All basic API for Cells, Slices, Builders
+- All basic APIs for Cells, Slices, Builders
 - Routing of internal messages
 - Random number generation, including a way to seed it
 - Ability to deploy contracts
@@ -18,7 +18,7 @@ This version will be the first stable release of TACT. It will be released when 
 - Limited Strings and Maps support
 - Importing `func` files
 - [Arguments-addressable contracts](https://docs.tact-lang.org/evolution/OTP-005)
-- TypeScript bindings for Node, Browser and React Native
+- TypeScript bindings for Node, Browser, and React Native
 
 ## ✍️ Version v2
 
@@ -30,7 +30,7 @@ This version would include the following features:
 - `let` type inference when possible
 - Limited external messages support
 - Contract automatic optimizations
-- Auto-unpacking nullable variables to non-null one
+- Auto-unpacking nullable variables to non-null ones
 
 ## ✍️ Version v3
 
